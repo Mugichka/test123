@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print("кек");
-=======
-print("hello world");
->>>>>>> parent of eb73e4d (Update test.txt)
+lolwdaw
